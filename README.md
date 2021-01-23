@@ -1,6 +1,3 @@
-"# otomoto-scraper" 
-Scrape URL and basic offer data from Otomoto.
-
 # About
 
 Scrape basic data from Otomoto to Excel file. You can choose between inputing your own filters URL, or choosing them.
