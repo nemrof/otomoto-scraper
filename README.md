@@ -1,6 +1,6 @@
-# About
+# About 🚗🚘
 
-Scrape basic data from Otomoto to Excel file. You can choose between inputing your own filters URL, or choosing them.
+Scrape basic data from Otomoto to Excel file. You can choose between inputing your own filters URL, or choosing them with command line.
 
 # Requirements
 
